@@ -30,37 +30,7 @@
         "colab_type": "text"
       },
       "source": [
-        ""
-      ]
-    },
-    {
-      "cell_type": "code",
-      "metadata": {
-        "id": "qD3RkJzPt1Da",
-        "colab_type": "code",
-        "colab": {
-          "base_uri": "https://localhost:8080/",
-          "height": 34
-        },
-        "outputId": "a683f4b1-8944-4730-f6c7-d2868607590a"
-      },
-      "source": [
-        "n = 10000000\n",
-        "x = 0\n",
-        "i = 0\n",
-        "while i < n:\n",
-        "  i = i + 1\n",
-        "print('OK')"
-      ],
-      "execution_count": null,
-      "outputs": [
-        {
-          "output_type": "stream",
-          "text": [
-            "OK\n"
-          ],
-          "name": "stdout"
-        }
+        "LAB1 - THỰC HÀNH GOOGLE COLAB"
       ]
     }
   ]
